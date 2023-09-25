@@ -5,6 +5,12 @@
 /.pnp
 .pnp.js
 
+#folder and file
+server.js
+/src/assets/img/bin
+/src/components/Contact.js
+/src/components/MailchimpForm.js
+
 # testing
 /coverage
 
