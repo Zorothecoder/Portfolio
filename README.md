@@ -1,3 +1,53 @@
+# Chewang Gyalpu Bhutia - Full-Stack Developer Portfolio
+
+Welcome to my portfolio repository! This is where I showcase my web development projects and provide information about my skills and experience as a full-stack developer.
+
+## Table of Contents
+
+- [About Me](#about-me)
+- [Portfolio Highlights](#portfolio-highlights)
+- [Skills](#skills)
+- [Getting in Touch](#getting-in-touch)
+
+## About Me
+
+I am Chewang Gyalpu Bhutia, a passionate and highly motivated full-stack developer with a strong foundation in both front-end and back-end technologies. My journey in the world of web development has been driven by a love for continuous learning and a commitment to delivering high-quality results.
+
+## Portfolio Highlights
+
+### Project 1: [IndiaBizTimes](https://zorothecoder.github.io/IndiaBizTimes-A-News-Application/)
+
+- **Description:** IndiaBizTimes is a responsive web-based news application that provides the latest top headlines of India across various categories.
+- **Technologies Used:** React JS, News API, Bootstrap, CSS, HTML, Node JS
+- **GitHub Repository:** [IndiaBizTimes Repository](https://github.com/Zorothecoder/IndiaBizTimes-A-News-Application.git)
+
+### Project 2: [EDUCRED](https://educ-red.000webhostapp.com/)
+
+- **Description:** EDUCRED is a student-rewarding framework designed to enhance academic performance. It quantifies students' accomplishments and awards credits accordingly.
+- **Technologies Used:** PHP, MySQL, HTML, CSS, JavaScript, Ajax, jQuery, PHP MyAdmin, PWA
+- **GitHub Repository:** [EDUCRED Repository](https://github.com/Zorothecoder/EduCred)
+
+## Skills
+
+Here are the skills I've honed throughout my years:
+
+- Programming Languages: C, C++, C#, Java, Python
+- Web Development: HTML, CSS, JavaScript, PHP, MERN Stack
+- Web Frameworks: Bootstrap, React JS, Node JS, Express JS
+- Database: SQL, MySQL, NoSQL (MongoDB)
+- Version Control: Git, GitHub
+- Others: Microsoft Office, WordPress, Android Development
+
+## Getting in Touch
+
+I'm always open to exciting opportunities and collaborations. Feel free to reach out to me:
+
+- Email: [chewang.g.b@gmail.com](mailto:chewang.g.b@gmail.com)
+- LinkedIn: [Chewang Gyalpu Bhutia on LinkedIn](https://www.linkedin.com/in/chewang-gyalpu-bhutia/)
+- GitHub: [My GitHub Profile](https://github.com/Zorothecoder)
+
+Thank you for visiting my portfolio! 😊
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
