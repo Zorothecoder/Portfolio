@@ -1,6 +1,13 @@
 # Chewang Gyalpu Bhutia - Full-Stack Developer Portfolio
 
+**Website URL:** [https://zorothecoder.github.io/IndiaBizTimes-A-News-Application/](https://zorothecoder.github.io/IndiaBizTimes-A-News-Application/)
+
 Welcome to my portfolio repository! This is where I showcase my web development projects and provide information about my skills and experience as a full-stack developer.
+
+![Screenshot (141)](https://github.com/Zorothecoder/Portfolio/assets/141945518/ee518a03-59d5-49d6-9414-33ea6810b7c9)
+![Screenshot (142)](https://github.com/Zorothecoder/Portfolio/assets/141945518/3f00df8a-2c7b-41c5-a305-9d17d524a696)
+![Screenshot (144)](https://github.com/Zorothecoder/Portfolio/assets/141945518/0c247fc7-d1dc-4a89-8245-faff5747d5d0)
+
 
 ## Table of Contents
 
